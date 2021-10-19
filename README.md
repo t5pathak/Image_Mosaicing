@@ -29,7 +29,12 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 </p>
 
 ### Bakul Niwas - Stitched final image
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44245211/137891874-c2d84fff-dcdf-45e5-8bb4-d01f029ae674.png" width="895" />
+</p>
 
+
+### Taj Mahal - Six images to stitch
 <p align="left">
   <img src="https://user-images.githubusercontent.com/44245211/137889162-06fb9abb-4ce2-490a-a85d-ad1e2707e269.png" width="220" />
   <img src="https://user-images.githubusercontent.com/44245211/137889174-faaa6bdf-272f-4b46-afc8-815f47732458.png" width="220" /> 
@@ -38,8 +43,6 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
   <img src="https://user-images.githubusercontent.com/44245211/137889189-c3559c65-55ce-40a7-838c-a13f8ae7c4b7.png" width="220" /> 
   <img src="https://user-images.githubusercontent.com/44245211/137889192-8a8d620c-8c9f-4649-b7eb-d231fcb7d26a.png" width="220" />
 </p>
-
-### Taj Mahal - Six images to stitch
 
 ### Taj Mahal - Stitched final image
 
