@@ -45,7 +45,9 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 </p>
 
 ### Taj Mahal - Stitched final image
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44245211/137891993-1fd13839-5a18-41f8-8b1a-e79ca39f127f.png" width="895" />
+</p>
 
 
 # Directory Structure
