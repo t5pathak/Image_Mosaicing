@@ -43,7 +43,7 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/44245211/137892484-a0c39339-8cd5-4cc6-8ea0-5dc677d0a147.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/44245211/137892485-730d44f8-509a-4a27-9078-b5932d0e041b.png" width="200" /><br />
+  <img src="https://user-images.githubusercontent.com/44245211/137892485-730d44f8-509a-4a27-9078-b5932d0e041b.png" width="200" />
   <img src="https://user-images.githubusercontent.com/44245211/137893025-3c02fbc7-15b6-4ecd-9a65-0e10f7128e35.png" width="200" />
 </p>
 
@@ -52,6 +52,19 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
   <img src="https://user-images.githubusercontent.com/44245211/137891993-1fd13839-5a18-41f8-8b1a-e79ca39f127f.png" width="895" />
 </p>
 
+### Himalaya Block - Four images to stitch
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/44245211/137893541-4931f3ac-f9e4-42fe-a3a1-c2085c1b9e15.jpg" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893560-2a35091d-b21b-4e99-9f41-77756d2b09d9.jpg" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893564-ef647fa8-07ee-4a61-8f09-c6f1afbdbbff.jpg" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893567-234710c1-646c-4da8-b2ea-8a83c3bf225c.jpg" width="220" />
+</p>
+
+### Himalaya Block - Stitched final image
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44245211/137893757-abf2cdca-890f-442d-8325-2ee5ec429561.png" width="834" />
+</p>
 
 # Directory Structure
 - ```src``` folder contains the source code. 
