@@ -22,10 +22,10 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 
 ### Bakul Niwas - Four images to stitch
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137888046-549ea5dd-1fad-4879-8f2d-7ffa4bf52e30.jpg" width="200" />
-  <img src="https://user-images.githubusercontent.com/44245211/137888053-96b94447-74ca-414d-a4c0-4a9939020255.jpg" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137888058-667aacff-880b-41c4-8ef8-df81ee9d7bd0.jpg" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137888061-8c832609-d43e-4998-ac35-deba5c8a7c08.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137888046-549ea5dd-1fad-4879-8f2d-7ffa4bf52e30.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/44245211/137888053-96b94447-74ca-414d-a4c0-4a9939020255.jpg" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/44245211/137888058-667aacff-880b-41c4-8ef8-df81ee9d7bd0.jpg" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/44245211/137888061-8c832609-d43e-4998-ac35-deba5c8a7c08.jpg" width="300" />
 </p>
 
 ### Bakul Niwas - Stitched final image
