@@ -22,10 +22,10 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 
 ### Bakul Niwas - Four images to stitch
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137888046-549ea5dd-1fad-4879-8f2d-7ffa4bf52e30.jpg" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137888053-96b94447-74ca-414d-a4c0-4a9939020255.jpg" width="220" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137888058-667aacff-880b-41c4-8ef8-df81ee9d7bd0.jpg" width="220" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137888061-8c832609-d43e-4998-ac35-deba5c8a7c08.jpg" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137888046-549ea5dd-1fad-4879-8f2d-7ffa4bf52e30.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137888053-96b94447-74ca-414d-a4c0-4a9939020255.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44245211/137888058-667aacff-880b-41c4-8ef8-df81ee9d7bd0.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44245211/137888061-8c832609-d43e-4998-ac35-deba5c8a7c08.jpg" width="200" />
 </p>
 
 ### Bakul Niwas - Stitched final image
@@ -54,10 +54,10 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 
 ### Himalaya Block - Four images to stitch
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137893541-4931f3ac-f9e4-42fe-a3a1-c2085c1b9e15.jpg" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893560-2a35091d-b21b-4e99-9f41-77756d2b09d9.jpg" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893564-ef647fa8-07ee-4a61-8f09-c6f1afbdbbff.jpg" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893567-234710c1-646c-4da8-b2ea-8a83c3bf225c.jpg" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893541-4931f3ac-f9e4-42fe-a3a1-c2085c1b9e15.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893560-2a35091d-b21b-4e99-9f41-77756d2b09d9.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893564-ef647fa8-07ee-4a61-8f09-c6f1afbdbbff.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137893567-234710c1-646c-4da8-b2ea-8a83c3bf225c.jpg" width="200" />
 </p>
 
 ### Himalaya Block - Stitched final image
