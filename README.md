@@ -36,12 +36,14 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
 
 ### Taj Mahal - Six images to stitch
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137889162-06fb9abb-4ce2-490a-a85d-ad1e2707e269.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137889174-faaa6bdf-272f-4b46-afc8-815f47732458.png" width="220" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137889182-4e36f118-c012-41c4-a3b8-56fa5da8bbac.png" width="220" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137889186-8955a3c7-45bc-40f3-95b6-b49351035d32.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/44245211/137889189-c3559c65-55ce-40a7-838c-a13f8ae7c4b7.png" width="220" /> 
-  <img src="https://user-images.githubusercontent.com/44245211/137889192-8a8d620c-8c9f-4649-b7eb-d231fcb7d26a.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/44245211/137892466-ad04abd6-4e78-4263-9e47-6c67463e2426.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137892481-63764503-9103-4823-af1c-a9d5a8fa7170.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137892483-081300c7-dd8a-4878-8e07-ac521d6529ad.png" width="200" />
+</p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/44245211/137892484-a0c39339-8cd5-4cc6-8ea0-5dc677d0a147.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/44245211/137892485-730d44f8-509a-4a27-9078-b5932d0e041b.png" width="200" />
 </p>
 
 ### Taj Mahal - Stitched final image
