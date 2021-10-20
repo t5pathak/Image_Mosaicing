@@ -52,20 +52,6 @@ Mosaicing is one of the techniques of image processing which is useful for tilin
   <img src="https://user-images.githubusercontent.com/44245211/137891993-1fd13839-5a18-41f8-8b1a-e79ca39f127f.png" width="895" />
 </p>
 
-### Himalaya Block - Four images to stitch
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137893541-4931f3ac-f9e4-42fe-a3a1-c2085c1b9e15.jpg" width="200" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893560-2a35091d-b21b-4e99-9f41-77756d2b09d9.jpg" width="200" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893564-ef647fa8-07ee-4a61-8f09-c6f1afbdbbff.jpg" width="200" />
-  <img src="https://user-images.githubusercontent.com/44245211/137893567-234710c1-646c-4da8-b2ea-8a83c3bf225c.jpg" width="200" />
-</p>
-
-### Himalaya Block - Stitched final image
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/44245211/137893757-abf2cdca-890f-442d-8325-2ee5ec429561.png" width="834" />
-</p>
-
 # Directory Structure
 - ```src``` folder contains the source code. 
 - ```images/Image Mosaicing/``` contains all the images to test the code on.
